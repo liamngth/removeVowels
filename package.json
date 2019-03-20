@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RemoveVowels.js",
+  "dependencies": {
+    "jasmine": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine spec/removeVowelsSpec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
